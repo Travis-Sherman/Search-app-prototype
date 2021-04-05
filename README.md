@@ -11,5 +11,4 @@ Algolia search engine/database
 
 ### App Walk-though
 
-
-<img src="https://i.imgur.com/CAt1kON.gif" width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/CAt1kON" data-context="false" ><a href="//imgur.com/a/CAt1kON"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
