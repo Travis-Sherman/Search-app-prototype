@@ -1,3 +1,4 @@
+
 ## Search-app-prototype
 
 ### App Description
@@ -11,5 +12,4 @@ Algolia search engine/database
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/CAt1kON" width=200><br>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/CAt1kON" data-context="false" ><a href="//imgur.com/a/CAt1kON"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![searchApp](https://user-images.githubusercontent.com/61709871/113615455-e41b1780-9621-11eb-9d01-e01f20b80f9b.gif)
